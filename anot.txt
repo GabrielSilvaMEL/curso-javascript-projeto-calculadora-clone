@@ -1,0 +1,14 @@
+View : Interface que o susuário interage
+Controller: Define a regra de negócios
+Model: Trata os dados e verifica
+==
+MVC: Separa os dados para facilitar alterações.
+==
+
+
+Variáveis: Armazena informações na memória
+Funções: Códigos que executam uma ação e retornam o valor
+    ==
+    dentro da classe elas são chamadas de atributo e métodos, ganhando recursos extras
+    ==
+Uma classe é um conjunto de atributos e métodos
